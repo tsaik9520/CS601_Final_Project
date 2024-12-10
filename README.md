@@ -13,6 +13,10 @@ This webpage is hosted on github webpages and can be accessed at https://tsaik95
 
 Kevin Tsai ktsai99@bu.edu
 
+## Key Functionality Walkthrough
+
+At the top of the page you can find the header nav bar which will allow you to navigate through all the individual pages (Home, About, Interests, Resume, Gallery, and Contact) On the interests and gallery pages, you can find a blue arrow button in the bottom right hand corner when you scroll down on the page. Clicking on this button will bring you back to the top of the page. At the bottom of the resume page, you will find the download resume button. Clicking this button will allow you to download my resume that I have created using LaTex. Finally, in the gallery you will be able to click on each individual image to bring up an image modal. This will allow you to navigate between each individual image via the left and right arrows adjacent to the image or exit out of the modal via X button at the top right.
+
 ## Problems & Learnings
 
 > This term project was really fun to make and I was able to demonstrate the culmination of my learnings through these 6 weeks of class. I was able to express my own style and interests into my first own portfolio that I can now put on my resume
