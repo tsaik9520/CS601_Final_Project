@@ -1,0 +1,77 @@
+.resume-container {
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.main-content {
+  flex: 3;
+  padding: 20px;
+}
+
+.sidebar {
+  flex: 1;
+  padding: 20px;
+  background-color: #f4f4f4;
+  border-left: 1px solid #ddd;
+}
+
+h1,
+h2,
+h3 {
+  color: #333;
+}
+
+.contact-info,
+.section {
+  margin-top: 20px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #fff;
+}
+
+.section ul,
+.sidebar ul {
+  list-style-type: none;
+  margin-left: 20px;
+  padding-left: 0;
+}
+
+.experience-subsection {
+  margin-top: 10px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.download-button {
+  margin-top: 20px;
+}
+
+.download-button button {
+  padding: 10px 20px;
+  font-size: 16px;
+  color: white;
+  background-color: #596e79;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.download-button button:hover {
+  background-color: #436d83;
+}
+
+.toggle-header {
+  cursor: pointer;
+  user-select: none;
+}
+
+.toggle-header:hover {
+  color: #436d83;
+}

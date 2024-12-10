@@ -1,0 +1,39 @@
+.biography {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.biography h1 {
+  color: #333;
+}
+
+.biography-content {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+}
+
+.biography-text {
+  flex: 1;
+  min-width: 200px;
+}
+
+.biography p {
+  margin: 20px 0;
+}
+
+.headshot-container {
+  flex: 1;
+  max-width: 600px;
+  width: 100%;
+}
+
+.headshot-container img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
