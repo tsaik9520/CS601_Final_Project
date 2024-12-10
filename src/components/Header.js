@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <header>
       <nav className="nav-bar">
-        <Link to="/">Home</Link>
+        <Link to="my-portfolio-app">Home</Link>
         <Link to="/biography">About</Link>
         <Link to="/interests">Interests</Link>
         <Link to="/resume">Resume</Link>

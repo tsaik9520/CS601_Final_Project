@@ -17,7 +17,7 @@ const App = () => {
         <Header />
         <Routes>
           {/* Routes for the different pages */}
-          <Route path="/" element={<Home />} />
+          <Route path="my-portfolio-app" element={<Home />} />
           <Route path="/biography" element={<Biography />} />
           <Route path="/interests" element={<Interests />} />
           <Route path="/contact" element={<Contact />} />
