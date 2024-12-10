@@ -15,9 +15,9 @@ const Interests = () => {
           are two pieces that I have entered in the competition and won a Gold Keys. My favorite subjects to paint are landscapes and still life.
         </p>
         <div className="artwork">
-              <img src={`${process.env.PUBLIC_URL}/images/painting_tidalbasin.jpg`} className="wrap-left" alt="Painting Tidal Basin" />
+              <img src={`${process.env.PUBLIC_URL}/images/painting_tidalbasin.JPG`} className="wrap-left" alt="Painting Tidal Basin" />
               Spring Cherry Blossoms at the Tidal Basin in Washington, D.C.
-              <img src={`${process.env.PUBLIC_URL}/images/painting_timessquare.jpg`} className="wrap-right" alt="Times Square" />
+              <img src={`${process.env.PUBLIC_URL}/images/painting_timessquare.JPG`} className="wrap-right" alt="Times Square" />
               Lively streets of Times Square in New York City.
         </div>
       </div>
@@ -40,7 +40,7 @@ const Interests = () => {
           The sport is definitely one of the hardest mentally and physically but I love the challenge of the game and the beautiful golf courses that I get to play on.
           Here is a picture taken at Turf Valley Resort Course back home where I played with my friends over the summer.
           <p>
-            <img src={`${process.env.PUBLIC_URL}/images/surgery.jpg`} className="custom-shoulder" alt="Post Shoulder Surgery" />
+            <img src={`${process.env.PUBLIC_URL}/images/surgery.JPG`} className="custom-shoulder" alt="Post Shoulder Surgery" />
             I tried pickleball for the first time during the pandemic and played very casually. It is a fun and social sport that has a great community.
             I made a lot of friends playing in New York since moving just from playing in local parks and courts.
 
@@ -65,7 +65,7 @@ const Interests = () => {
         </p>
         <div className="image-container">
           <div className="image-item">
-            <img src={`${process.env.PUBLIC_URL}/images/Quebec.jpg`} alt="Quebec Hotspring" />
+            <img src={`${process.env.PUBLIC_URL}/images/Quebec.JPG`} alt="Quebec Hotspring" />
             <div className="image-caption">Quebec Nordic Hotspring Spa</div>
           </div>
           <div className="image-item">
@@ -86,7 +86,7 @@ const Interests = () => {
           This is the most recent festival called Gov Ball in NYC where I saw Post Malone and SZA perform live. The energy and vibes were amazing and I can't wait to go to more festivals in the future.
         </p>
         <div className="festival-container">
-          <img src={`${process.env.PUBLIC_URL}/images/festival.png`} className="festival" alt="festival" />
+          <img src={`${process.env.PUBLIC_URL}/images/festival.PNG`} className="festival" alt="festival" />
         </div>
       </div>
       <ScrollButton />
