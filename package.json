@@ -1,7 +1,7 @@
 {
   "name": "my-portfolio-app",
   "version": "0.1.0",
-  "homepage": "https://tsaik9520.github.io/",
+  "homepage": "https://tsaik9520.github.io/CS601_Final_Project",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
