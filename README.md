@@ -48,3 +48,4 @@ HTML symbol references: https://www.toptal.com/designers/htmlarrows/
 
 Download: https://www.geeksforgeeks.org/how-to-download-pdf-file-in-reactjs/
 
+https://github.com/gitname/react-gh-pages
